@@ -79,7 +79,7 @@ The analysis is performed using relational datasets such as **city, customers, p
 ## 📁 Project Structure
 
 ```
- Monday-Coffee-SQL-Analysis
+ coffee-shop-expansion-analysis
  ┣  analysis.sql
  ┣  README.md
 ```
